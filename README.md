@@ -1,4 +1,4 @@
-# Penjelasan Redux Thunk
+# Penjelasan Redux Saga
 
 Contoh sederhana yang menerapkan managemen data dengan menggunakan Redux Thunk didalam contoh aplikasi Tugas 3
 
